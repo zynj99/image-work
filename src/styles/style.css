@@ -1,0 +1,24 @@
+body, html{
+	width: 100%;
+	height: 100%;
+}
+#app{
+	width: 100%;
+	height: 100%;
+}
+
+input{
+	width: 100%;
+	height: 1rem;
+	line-height: 1rem;
+	outline:medium;
+	color: #666;
+	font-size: 0.4rem;
+	background: #ffffff !important;
+    border: none !important;
+}
+
+.van-field__left-icon .van-icon, .van-field__right-icon .van-icon{
+    font-size: 0.5rem !important;
+    padding-top: 0.2rem !important;
+}
